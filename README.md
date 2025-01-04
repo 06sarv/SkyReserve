@@ -6,10 +6,10 @@ Built with Java and Java Swing, this app makes booking flights and managing rese
 Say goodbye to messy paperwork and hello to effortless flight booking!
 
 Features:
-•Flight Booking: Find, view, and book flights with a few simple clicks.
-•Reservation Management: Track customer bookings, update details, and keep everything organized.
-•User-Friendly Interface: A smooth, intuitive interface with a touch of charm, making everything easier for you!
-•Data Magic: Store and retrieve booking info seamlessly, keeping things secure.
+1. Flight Booking: Find, view, and book flights with a few simple clicks.
+2. Reservation Management: Track customer bookings, update details, and keep everything organized.
+3. User-Friendly Interface: A smooth, intuitive interface with a touch of charm, making everything easier for you!
+4. Data Magic: Store and retrieve booking info seamlessly, keeping things secure.
 
 Installation:
 Let’s get you set up with SkyReserve!
@@ -30,22 +30,22 @@ Run the app:
 
 
 Usage:
-Open the app by running:
-
-	 java -jar SkyReserve.jar 
+1. Open the app by running:
+   		
+	 	java -jar SkyReserve.jar 
   
-Log in as a travel agent.
-Use the cute interface to search and book flights.
-Manage your bookings and keep your travel life hassle-free.
+3. Log in as a travel agent.
+4. Use the cute interface to search and book flights.
+5. Manage your bookings and keep your travel life hassle-free.
 
 
 Contributing:
-Got some awesome ideas or improvements? We’d love your help!
-Fork the repo.
-Create a new branch.
-Make your changes.
-Submit a pull request with a sprinkle of creativity!
+1. Got some awesome ideas or improvements? I’d love your help!
+2. Fork the repo.
+3. Create a new branch.
+4. Make your changes.
+5. Submit a pull request with a sprinkle of creativity!
 
 Guidelines:
-Let’s keep things neat and tidy – follow Java best practices.
-Tests are a must when you add something fabulous!
+1. Let’s keep things neat and tidy – follow Java best practices.
+2. Tests are a must when you add something fabulous!
