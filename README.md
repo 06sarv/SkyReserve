@@ -13,19 +13,19 @@ Features:
 
 Installation:
 Let’s get you set up with SkyReserve!
-Clone the repository:
+1. Clone the repository:
 
-	git clone https://github.com/06sarv/SkyReserve.git
- 	cd SkyReserve  
+		git clone https://github.com/06sarv/SkyReserve.git
+	 	cd SkyReserve  
   
-Install dependencies:
+2. Install dependencies:
  
-	./gradlew build
+		./gradlew build
  	  
  
-Run the app:
+3. Run the app:
 
- 	java -jar SkyReserve.jar
+ 		java -jar SkyReserve.jar
 
 
 
